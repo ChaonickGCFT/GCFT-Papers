@@ -1,0 +1,12 @@
+Name,Core,Phase,Charge,FieldSymbol
+Electron,$\Xi$ knot,locked,$-1$,$e^{-}$
+Proton,$\Xi$ knot,locked,$+1$,$p^{+}$
+Photon,propagating $\Xi$,unlocked,$0$,$\gamma$
+Gradient,$\nabla\Xi$,gradient,$0$,
+Pion,symmetric $\Xi$ loop,transient,$0$,$\pi$
+Helium,$\Xi$-core + $2$ $\Xi$-electrons,locked,$0$,$\mathrm{He}$
+Tritium,$\Xi$-core + $2$ $\Xi$-electrons + neutron,locked,$0$,$\mathrm{T}$
+Water,$\Xi$-oxygen + $2$ $\Xi$-protons,locked,$0$,$\mathrm{H}_2\mathrm{O}$
+Higgs,$\Xi$ dome,ignition,$0$,$\mathrm{H}$
+W/Z,$\Xi$ rupture,shear,$\pm 1$,$\mathrm{W}/\mathrm{Z}$
+Rho,$\Xi$ rebound,partial entanglement,$0$,$\rho$
