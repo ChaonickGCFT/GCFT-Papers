@@ -2,23 +2,6 @@
 
 Welcome to the collection of research papers on the **General Coherence Field Theory (GCFT)** — a unified physics framework proposing that all particles, forces, and spacetime phenomena emerge from a single continuous coherence field \(\Xi\).
 
----
-
-## Included Papers
-
-- **Reconstructing the Standard Model via GCFT**  
-  A detailed theoretical reconstruction of the Standard Model particles and interactions as phase-locked resonance structures within the \(\Xi\)-field.  
-  [Download PDF](./GCFT_Standard_Model.pdf)
-
-- **Coherence Field Cosmology: Replacing \(\Lambda\)CDM with a Single Coherence Field (\(\Xi\))**  
-  Presents a cosmological model based on the GCFT framework, offering alternatives to dark matter and dark energy concepts.  
-  [Download PDF](./Coherence_Field_Cosmology.pdf)
-
-- **Ξ-Field Precursors in GW231123: Evidence for Coherence-Based Chirps and Mass Gap Violation**  
-  Analysis of gravitational wave data interpreted through GCFT coherence field dynamics.  
-  [Download PDF](./GW231123_Precursors.pdf)
-
----
 
 ## About GCFT
 
